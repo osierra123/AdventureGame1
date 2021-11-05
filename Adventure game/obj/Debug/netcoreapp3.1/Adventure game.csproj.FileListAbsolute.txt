@@ -1,0 +1,14 @@
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\bin\Debug\netcoreapp3.1\Adventure game.exe
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\bin\Debug\netcoreapp3.1\Adventure game.deps.json
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\bin\Debug\netcoreapp3.1\Adventure game.runtimeconfig.json
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\bin\Debug\netcoreapp3.1\Adventure game.runtimeconfig.dev.json
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\bin\Debug\netcoreapp3.1\Adventure game.dll
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\bin\Debug\netcoreapp3.1\Adventure game.pdb
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.csproj.AssemblyReference.cache
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.AssemblyInfoInputs.cache
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.AssemblyInfo.cs
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.csproj.CoreCompileInputs.cache
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.dll
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.pdb
+C:\Users\Omar Sierra\source\repos\Adventure game\Adventure game\obj\Debug\netcoreapp3.1\Adventure game.genruntimeconfig.cache
